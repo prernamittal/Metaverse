@@ -1,13 +1,7 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 html, body {
-  margin: 0;
-  border: 0;
-  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
   background-color: rgb(0, 0, 0);
-  background-image: url("https://imageio.forbes.com/specials-images/imageserve/614dfa9d9f01ea90157d28f2/Facebook-Horizon-Workrooms/960x0.jpg?fit=bounds&format=jpg&width=960");
+  background-image: url("https://images.unsplash.com/photo-1524334228333-0f6db392f8a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
   width: 100%;
   height: 100%;
 }
