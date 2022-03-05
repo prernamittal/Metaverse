@@ -36,6 +36,11 @@ main > h1 {
   text-align: left;
   font-size: 2em;
 }
+.market {
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-size: 2em;
+}
 .avatar p{
   text-align: left;
   color: rgb(255, 255, 255);
@@ -74,7 +79,7 @@ main > h1 {
   flex-flow: row wrap;
 }
 .box {
-  flex-basis: 20%;
+  flex-basis: 10%;
   width: 50%;
   padding: 5px;
   margin: 5px;
