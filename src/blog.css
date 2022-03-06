@@ -96,19 +96,10 @@ body {
     padding: 0;
   }
   .parallax.p1 {
-    background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-70374.jpg) no-repeat fixed 50% 0;
+    background: url(https://pa1.narvii.com/8089/36c2948234ec4890e878425e4b0d0645cc853c9er1-500-226_hq.gif) no-repeat fixed 50% 0;
     background-size: cover;
     color: #fff;
-  }
-  .parallax.p2 {
-    background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-126549.jpg) no-repeat fixed 50% 0;
-    background-size: cover;
-    color: #fff;
-  }
-  .parallax.p3 {
-    background: url(http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95766.jpg) no-repeat fixed 70% 0;
-    background-size: cover;
-    color: #fff;
+    box-shadow: 1px 1px 15px 1px white; 
   }
   .parallax-text {
     width: 24em;
