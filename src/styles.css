@@ -81,6 +81,15 @@ main > h1 {
   background-color: #1504aa;
   color: white;
 }
+/*search bar styling*/
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
 /*image gallery tshirts*/
 .gallery {
   width:100%;
