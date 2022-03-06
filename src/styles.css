@@ -55,7 +55,7 @@ main > h1 {
   color: rgb(255, 255, 255);
 }
 .avatar input[type=text] {
-  float: right;
+  float: left;
   padding: 6px;
   border: none;
   margin-top: 8px;
@@ -129,9 +129,16 @@ main > h1 {
 @media only screen and (max-width: 300px) { 
   .box {
       flex-basis: 100%;
-  }}
+  }
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+}
 @media only screen and (max-width:500px) {
   .box {
       flex-basis: 40%;
+    }
+  .topnav input[type=text] {
+      border: 1px solid #ccc;
     }
 }
